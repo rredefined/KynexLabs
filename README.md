@@ -8,7 +8,7 @@
   [![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)](https://tailwindcss.com)
   [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
 
-  [View Demo](https://landing-page-hosting-rho.vercel.app/) | [Report Bug](https://github.com/yourusername/repo/issues) | [Request Feature](https://github.com/yourusername/repo/issues)
+  | [View Demo](https://landing-page-hosting-rho.vercel.app/) |
 </div>
 
 ---
