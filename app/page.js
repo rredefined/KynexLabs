@@ -152,16 +152,16 @@ export default function Home() {
               </div>
               <h1 className="text-4xl sm:text-5xl lg:text-7xl xl:text-8xl font-bold tracking-tight mt-6">
                 <span className="block opacity-0 animate-fadeInUp">Next-gen</span>
-                <span className="block text-gray-400 opacity-0 animate-fadeInUp animation-delay-200">Virtual</span>
-                <span className="block opacity-0 animate-fadeInUp animation-delay-400">Machines</span>
+                <span className="block text-gray-400 opacity-0 animate-fadeInUp animation-delay-200">Game</span>
+                <span className="block opacity-0 animate-fadeInUp animation-delay-400">Servers</span>
               </h1>
               <p className="mt-8 text-lg sm:text-xl text-gray-400 max-w-[600px] mx-auto lg:mx-0 opacity-0 animate-fadeInUp animation-delay-600">
-                Select a virtual private server (VPS) with more power,
+                Select a game server with more power,
                 flexibility, simplicity, and possibility.
               </p>
               <div className="mt-12 opacity-0 animate-fadeInUp animation-delay-800">
                 <button className="group relative px-8 py-4 bg-gradient-to-r from-violet-500 to-fuchsia-500 rounded-full text-sm font-medium transition-all duration-300 hover:shadow-[0_0_30px_-5px] hover:shadow-violet-500/50">
-                  <span className="relative z-10">Find your VM</span>
+                  <span className="relative z-10">Get Started</span>
                   <span className="absolute inset-0 rounded-full bg-gradient-to-r from-fuchsia-500 to-violet-500 opacity-0 group-hover:opacity-100 transition-opacity duration-300"></span>
                 </button>
               </div>
