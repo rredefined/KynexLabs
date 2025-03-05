@@ -160,10 +160,12 @@ export default function Home() {
                 flexibility, simplicity, and possibility.
               </p>
               <div className="mt-12 opacity-0 animate-fadeInUp animation-delay-800">
+                  <Link href="#plans">
                 <button className="group relative px-8 py-4 bg-gradient-to-r from-violet-500 to-fuchsia-500 rounded-full text-sm font-medium transition-all duration-300 hover:shadow-[0_0_30px_-5px] hover:shadow-violet-500/50">
-                  <span className="relative z-10">Get Started</span>
+                  <span className="relative z-10">View Plans</span>
                   <span className="absolute inset-0 rounded-full bg-gradient-to-r from-fuchsia-500 to-violet-500 opacity-0 group-hover:opacity-100 transition-opacity duration-300"></span>
                 </button>
+            </Link>
               </div>
             </div>
 
