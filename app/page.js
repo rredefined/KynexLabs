@@ -16,7 +16,7 @@ export default function Home() {
     return (
       <div className="fixed inset-0 bg-black flex items-center justify-center">
         <div className="relative">
-          <div className="text-6xl font-bold text-white animate-pulse tracking-widest">KrinixCloud</div>
+          <div className="text-6xl font-bold text-white animate-pulse tracking-widest">AxyteHost</div>
           <div className="absolute -bottom-4 left-0 right-0 h-[2px] bg-gradient-to-r from-transparent via-violet-500 to-transparent animate-scan"></div>
         </div>
       </div>
@@ -87,7 +87,7 @@ export default function Home() {
         <div className="max-w-[1400px] mx-auto px-6">
           <div className="flex justify-between items-center h-20">
             <Link href="/" className="text-2xl font-bold tracking-wider group">
-              <span className="bg-clip-text text-transparent bg-gradient-to-r from-violet-500 to-fuchsia-500 group-hover:from-fuchsia-500 group-hover:to-violet-500 transition-all duration-500">KrinixCloud</span>
+              <span className="bg-clip-text text-transparent bg-gradient-to-r from-violet-500 to-fuchsia-500 group-hover:from-fuchsia-500 group-hover:to-violet-500 transition-all duration-500">AxyteHost</span>
             </Link>
 
             {/* Mobile Menu Button */}
@@ -147,7 +147,7 @@ export default function Home() {
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
             <div className="relative z-10 text-center lg:text-left">
               <div className="inline-block">
-                <p className="text-sm font-medium mb-4 bg-gradient-to-r from-violet-500 to-fuchsia-500 text-transparent bg-clip-text">KrinixCloud™</p>
+                <p className="text-sm font-medium mb-4 bg-gradient-to-r from-violet-500 to-fuchsia-500 text-transparent bg-clip-text">AxyteHost™</p>
                 <div className="h-[1px] bg-gradient-to-r from-violet-500 to-fuchsia-500 transform scale-x-0 animate-scaleX"></div>
               </div>
               <h1 className="text-4xl sm:text-5xl lg:text-7xl xl:text-8xl font-bold tracking-tight mt-6">
@@ -761,7 +761,7 @@ export default function Home() {
                   </div>
                 </div>
                 <div className="lg:w-2/3">
-                  <div className="text-2xl font-medium mb-4">"The performance and reliability of KrinixCloud's infrastructure have been game-changing for our business. Their support team is exceptional."</div>
+                  <div className="text-2xl font-medium mb-4">"The performance and reliability of AxyteHost's infrastructure have been game-changing for our business. Their support team is exceptional."</div>
                   <div className="flex items-center space-x-1">
                     {[...Array(5)].map((_, i) => (
                       <svg key={i} className="w-5 h-5 text-violet-500" fill="currentColor" viewBox="0 0 20 20">
@@ -908,7 +908,7 @@ export default function Home() {
             <div className="col-span-2">
               <div className="mb-8">
                 <Link href="/" className="text-3xl font-bold tracking-wider inline-block">
-                  <span className="bg-clip-text text-transparent bg-gradient-to-r from-violet-500 to-fuchsia-500">KrinixCloud</span>
+                  <span className="bg-clip-text text-transparent bg-gradient-to-r from-violet-500 to-fuchsia-500">AxyteHost</span>
                 </Link>
                 <p className="text-gray-400 mt-4 max-w-sm">Next-generation infrastructure for modern applications. Build, deploy, and scale with confidence.</p>
               </div>
@@ -989,7 +989,7 @@ export default function Home() {
           <div className="pt-8 border-t border-white/5">
             <div className="flex flex-col md:flex-row justify-between items-center gap-4">
               <div className="text-gray-400 text-sm">
-                © 2025 KrinixCloud™. All rights reserved.
+                © 2025 AxyteHost™. All rights reserved.
               </div>
               <div className="flex gap-6 text-sm">
                 <a href="#" className="text-gray-400 hover:text-violet-400 transition-colors">Privacy Policy</a>
