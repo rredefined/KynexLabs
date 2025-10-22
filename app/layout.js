@@ -1,7 +1,7 @@
 import './globals.css'
 
 export const metadata = {
-  title: 'KrinixCloud - Next-gen Game Servers',
+  title: 'AxyteHost- Next-gen Game Servers',
   description: 'Select a game server with more power, flexibility, simplicity, and possibility.',
 }
 
